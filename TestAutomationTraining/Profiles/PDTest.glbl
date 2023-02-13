@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PDTest</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://pdtest.devintellifyvms.com/login?redirectUrl='</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'msp101@gmail.com'</initValue>
+      <name>User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1qaz!QAZza'</initValue>
+      <name>PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Normal Timeout</description>
+      <initValue>30</initValue>
+      <name>N_Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Short Timeout</description>
+      <initValue>5</initValue>
+      <name>S_Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Long Timeout</description>
+      <initValue>0</initValue>
+      <name>L_Timeout</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
