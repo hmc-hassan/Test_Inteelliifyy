@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>HomePageVerify</name>
+   <name>Actions</name>
    <tag></tag>
-   <elementGuidId>e42b043e-c485-42fb-bcb3-7906b90ce524</elementGuidId>
+   <elementGuidId>02ab34b6-62a2-4503-a01e-36fc91a3a997</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class = 'name ng-star-inserted']</value>
+         <value>//span[@title= 'Actions']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

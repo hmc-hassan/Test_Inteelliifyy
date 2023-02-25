@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>HomePageVerify</name>
+   <name>Menu</name>
    <tag></tag>
-   <elementGuidId>e42b043e-c485-42fb-bcb3-7906b90ce524</elementGuidId>
+   <elementGuidId>9a34cc8c-d865-47a4-9351-fb2ecfc4ea98</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class = 'name ng-star-inserted']</value>
+         <value>//div[@class = 'hamburger']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

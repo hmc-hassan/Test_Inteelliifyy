@@ -49,6 +49,3 @@ WebUI.click(findTestObject('General/Page_Intellify/button_Sign In'), FailureHand
 
 WebUI.waitForElementVisible(findTestObject('General/HomePageVerify'), GlobalVariable.L_Timeout, FailureHandling.STOP_ON_FAILURE)
 
-//Close Browser
-
-WebUI.closeBrowser()
